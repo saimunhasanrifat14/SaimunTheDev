@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! My name is Nur-islam and I'm a MERN Stack Developer from Bangladesh.</h1>
+<h1 align="center">Hi 👋! My name is Saimun Hasan and I'm a MERN Stack Developer from Bangladesh.</h1>
 
 ###
 
